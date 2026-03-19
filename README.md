@@ -51,8 +51,8 @@ PDF Integration • next/link • public folder
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/asmae202/ton-repo.git
-cd ton-repo
+git clone https://github.com/asmae202/My-Portfolio-React.git
+cd My-Portfolio-React
 npm install
 npm run dev
 ```
