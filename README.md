@@ -6,8 +6,7 @@ Portfolio personnel développé avec des technologies modernes pour présenter m
 
 ## 🌐 Live Demo
 
-[https://ton-portfolio.vercel.app](https://my-portfolio-react-lilac.vercel.app/)
-
+https://my-portfolio-react-lilac.vercel.app/
 ---
 
 ## 🛠️ Stack Technique
